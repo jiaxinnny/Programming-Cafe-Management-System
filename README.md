@@ -9,7 +9,7 @@ This project used C language to build a system called "Programing Café". This s
 * Student - View their timetable, Enrol themselves in any available session
 
 ## ✅ Sample Output
-### Main Menu
+### > Main Menu
 <img width="350" height="190" alt="image" src="https://github.com/user-attachments/assets/92df0d4c-a454-4c3e-9ced-c20bfe56e0f7" />
 
 ### Login Page
