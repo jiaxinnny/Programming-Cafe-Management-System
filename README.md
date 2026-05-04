@@ -17,10 +17,10 @@ Admin Page
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/e738c393-023f-4842-92cc-8ff809726d89" />
 
 Tutor Page
-<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/50a4837a-241c-4794-a1e4-b708cf23a2b3" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/50a4837a-241c-4794-a1e4-b708cf23a2b3" />
 
 Student Page
-<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/fa5a8fcd-eaac-4560-afb8-ffab49c98782" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fa5a8fcd-eaac-4560-afb8-ffab49c98782" />
 
 ### Session Menu
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/7a0c06dc-ed02-46d2-8697-2f173d31218e" />
