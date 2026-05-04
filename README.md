@@ -10,7 +10,7 @@ This project used C language to build a system called "Programing Café". This s
 
 ## ✅ Sample Output
 ### Main Menu
-<img width="350" height="210" alt="image" src="https://github.com/user-attachments/assets/92df0d4c-a454-4c3e-9ced-c20bfe56e0f7" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/92df0d4c-a454-4c3e-9ced-c20bfe56e0f7" />
 
 ### Login Page
 Admin Page
