@@ -13,13 +13,13 @@ This project used C language to build a system called "Programing Café". This s
 <img width="350" height="210" alt="image" src="https://github.com/user-attachments/assets/92df0d4c-a454-4c3e-9ced-c20bfe56e0f7" />
 
 ### Login Page
-Admin Page
+- Admin Page
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/e738c393-023f-4842-92cc-8ff809726d89" />
 
-Tutor Page
+- Tutor Page
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/50a4837a-241c-4794-a1e4-b708cf23a2b3" />
 
-Student Page
+- Student Page
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fa5a8fcd-eaac-4560-afb8-ffab49c98782" />
 
 ### Session Menu
