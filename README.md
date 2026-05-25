@@ -23,7 +23,7 @@ This project used C language to build a system called "Programing Café". This s
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fa5a8fcd-eaac-4560-afb8-ffab49c98782" />
 
 ### Session Menu
-<img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/7a0c06dc-ed02-46d2-8697-2f173d31218e" />
+<img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/7a0c06dc-ed02-46d2-8697-2f173d31218e" /><br>
 
 > [!NOTE]
 > ##### _* For more, please refer to "ICP Project Report.pdf"_
